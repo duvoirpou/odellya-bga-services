@@ -2184,8 +2184,8 @@
 .contact-us-1 .form-control {
 	box-shadow: none;
 	border-radius: 0;
-	border-color: #e7e7e7;
-	color: #777;
+	border-color: black;
+	color: black;
 	height: 46px;
 	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
@@ -2198,16 +2198,16 @@
 	height: 200px;
 }
 .contact-us-1 .form-control::-webkit-input-placeholder {
-	color: #d8d8d8;
+	color: #000;
 }
 .contact-us-1 .form-control:-moz-placeholder { /* Firefox 18- */
-	color: #d8d8d8; 
+	color: #000; 
 }
 .contact-us-1 .form-control::-moz-placeholder {  /* Firefox 19+ */
-	color: #d8d8d8;
+	color: #000;
 }
 .contact-us-1 .form-control:-ms-input-placeholder {  
-	color: #d8d8d8; 
+	color: #000; 
 }
 .contact-us-1 .form-group button {
 	background-color: #0082ca;
