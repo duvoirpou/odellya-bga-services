@@ -15,10 +15,10 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>BGA-Services</title>
+	<title>BGA-SERVICES</title>
 
 	<!-- Standard Favicon -->
-	<link rel="icon" type="image/x-icon" href="images//favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="images/bga-services-logo.png" />
 
 	<!-- For iPhone 4 Retina display: -->
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images//apple-touch-icon-114x114-precomposed.png">
@@ -68,7 +68,7 @@
 				<div id="home-slider1" class="rev_slider" data-version="5.0">
 					<ul>
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/slider-2.jpg" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-0" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
@@ -94,7 +94,7 @@
 						</li>
 
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/slider-4.jpg" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-6" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
@@ -104,7 +104,7 @@
 							</div>
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-8" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','260','215','145']" data-fontsize="['50','44','44','18']" data-fontweight="['700','700','700','700']" data-lineheight="['60','24','24','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:1000;e:Power4.easeOut;" data-transform_out="opacity:0;s:3000;e:Power4.easeIn;s:3000;e:Power4.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#fff; letter-spacing: 10px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">
-								<span style="color: #fff301;">Nettoyer</span>Votre Place
+								<span style="color: #189586;">Nettoyer</span>Votre Place
 							</div>
 							<!-- LAYER NR. 4 -->
 							<!-- <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['360','290','250','165']" data-fontsize="['18','18','18','14']" data-fontweight="['400','400','400','400']" data-lineheight="['40','40','40','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#e2e2e2; letter-spacing: 1px; font-family: 'Raleway', sans-serif;">
@@ -120,7 +120,7 @@
 						</li>
 
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/slider-1.jpg" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-12" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(48, 48, 48, 0.8);">
@@ -130,7 +130,7 @@
 							</div>
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-14" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','260','215','145']" data-fontsize="['50','44','44','18']" data-fontweight="['700','700','700','700']" data-lineheight="['60','24','24','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:1000;e:Power4.easeOut;" data-transform_out="opacity:0;s:3000;e:Power4.easeIn;s:3000;e:Power4.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#fff; letter-spacing: 10px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">
-								<span style="color: #fff301;">Nettoyer</span>Votre Place
+								<span style="color: #189586;">Nettoyer</span>Votre Place
 							</div>
 							<!-- LAYER NR. 4 -->
 							<!-- <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-15" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['360','290','250','165']" data-fontsize="['18','18','18','14']" data-fontweight="['400','400','400','400']" data-lineheight="['40','40','40','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#e2e2e2; letter-spacing: 1px; font-family: 'Raleway', sans-serif;">
@@ -161,32 +161,37 @@
 						"Le spécialiste de la propriété au service de votre bien être"
 					</p>
 				</div><!-- Section Header /- -->
-				<div class="col">
-					<h4 style="text-align: justify;">
-						Le groupe BGA services est un acteur majeur spécialisé dans diverses secteurs tels que :
-					</h4>
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-6">
+						<h4 style="text-align: justify;">
+							Le groupe BGA services est un acteur majeur spécialisé dans diverses secteurs tels que :
+						</h4>
 
-					<p style="text-align: justify;">
-						L'entretien quotidien des locaux administratifs et commerciaux.
-					</p>
+						<p style="text-align: justify;">
+							L'entretien quotidien des locaux administratifs et commerciaux.
+						</p>
 
-					<p style="text-align: justify;">
-						Le nettoyage des carreaux et marbres, le ponçage et la cristalisation du marbre, grand lavage d'immeuble et résidence, grand nettoyage de fin de chantiers.
-					</p>
+						<p style="text-align: justify;">
+							Le nettoyage des carreaux et marbres, le ponçage et la cristalisation du marbre, grand lavage d'immeuble et résidence, grand nettoyage de fin de chantiers.
+						</p>
 
-					<p style="text-align: justify;">
-						Nettoyage vitrerie accessible et inaccessible (nacelle), nettoyage canapé en cuir ou tissus, tapis moquettes et matelas, la buanderie.
-					</p>
+						<p style="text-align: justify;">
+							Nettoyage vitrerie accessible et inaccessible (nacelle), nettoyage canapé en cuir ou tissus, tapis moquettes et matelas, la buanderie.
+						</p>
 
-					<p style="text-align: justify;">Nettoyage et maintenance des climatiseurs.</p>
+						<p style="text-align: justify;">Nettoyage et maintenance des climatiseurs.</p>
 
-					<p style="text-align: justify;">
-						Entretien professionnel des espaces verts, désinsectisation, dératisation, décapage, avec des materiels et produits adaptés, mettant au coeur de son objectif la réussite et le bien être du client.
-					</p>
+						<p style="text-align: justify;">
+							Entretien professionnel des espaces verts, désinsectisation, dératisation, décapage, avec des materiels et produits adaptés, mettant au coeur de son objectif la réussite et le bien être du client.
+						</p>
 
-					<p style="text-align: justify;">
-						BGA offre des solutions rapides, efficaces, adaptées, ce à des tarifs défiants toute concurrence.
-					</p>
+						<p style="text-align: justify;">
+							BGA offre des solutions rapides, efficaces, adaptées, ce à des tarifs défiants toute concurrence.
+						</p>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-6" id="largeur">
+						<img src="images/MicrosoftTeams-image-2.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
+					</div>
 				</div>
 				<!-- <div class="col-md-4 col-sm-6 col-xs-6">
 					<div class="choose-us-content">
@@ -258,25 +263,19 @@
 				</div><!-- Section Header /- -->
 				<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<ul type="square">
-							<li>
-								Mise en relation instantanée avec un conseiller dédié.
-							</li>
-						</ul>
+						<p>
+							Mise en relation instantanée avec un conseiller dédié.
+						</p>
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<ul type="square">
-							<li>
-								Choix ergonomique d'une répartition efficace de nos équipes.
-							</li>
-						</ul>
+						<p>
+							Choix ergonomique d'une répartition efficace de nos équipes.
+						</p>
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<ul type="square">
-							<li>
-								Conception et mise en oeuvre de solutions innovantes et pertinentes.
-							</li>
-						</ul>
+						<p>
+							Conception et mise en oeuvre de solutions innovantes et pertinentes.
+						</p>
 					</div>
 				</div>
 				<div class="section-header">
@@ -431,7 +430,7 @@
 				</div>
 				<div class="row container mt-4">
 					<div class="col">
-						<h4 class="text-uppercase text-center">Preformance - écoute - Dynamique - Compétence - Ponctuation</h4>
+						<h4 class="text-uppercase text-center">Performance - écoute - Dynamisme - Compétence - Ponctuation</h4>
 					</div>
 				</div>
 			</div><!-- Container /- -->
@@ -453,7 +452,7 @@
 			<!-- Container -->
 			<div class="container">
 				<div class="col-md-7 col-sm-6 col-xs-7">
-					<img src="images/about.png" alt="about" />
+					<img src="images/MicrosoftTeams-image-1.png"  class="img-thumbnail img-rounded" alt="about" style="width: 556px; height: 587px;" />
 				</div>
 				<div class="col-md-5 col-sm-6 col-xs-5 about-box">
 					<!-- Section Header -->
@@ -490,12 +489,12 @@
 					<h3>Nos domaines d'expertise</h3>
 					<img src="images/header-seprator.png" alt="seprator">
 					<p>
-						Groupe BGA prend en charge la vitrérie accessible et inaccessible (nacelle). L'entretien des espaces verts,  la dératisation, désinsectisation, démoustication, le ponçage et la cristallisation du marbre, nettoyage canapé, tapis, moquettes, buandérie repassage.
+						Groupe BGA prend en charge la vitrérie accessible et inaccessible (nacelle). L'entretien des espaces verts, la dératisation, désinsectisation, démoustication, le ponçage et la cristallisation du marbre, nettoyage canapé, tapis, moquettes, buandérie repassage.
 					</p>
 				</div><!-- Section Header /- -->
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-1.jpg" alt="features" />
+						<img src="images/show__commercia.jpg" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-ChemicalGlass"></span> -->
@@ -507,7 +506,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-2.jpg" alt="features" />
+						<img src="images/Creer-du-lien.png" alt="features"  style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-Delete"></span> -->
@@ -519,7 +518,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-3.jpg" alt="features" />
+						<img src="images/fulton-6321.jpg" alt="features"  style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-ForkandKnife"></span> -->
@@ -531,7 +530,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-4.jpg" alt="features" />
+						<img src="images/ouvrir-une-boite-de-nuit.jpg" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-Tools"></span> -->
@@ -543,7 +542,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-4.jpg" alt="features" />
+						<img src="images/Ecole.jpg" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-Tools"></span> -->
@@ -555,7 +554,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/features-4.jpg" alt="features" />
+						<img src="images/industrie-femme.jpg" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-Tools"></span> -->
@@ -572,7 +571,7 @@
 		<div id="newsletter-section" class="newsletter-section container-fluid">
 			<!-- Container
 			<div class="container"> -->
-				<!-- Section Header
+			<!-- Section Header
 				<div class="section-header">
 					<h3>newsletter</h3>
 					<img src="images/header-seprator.png" alt="seprator">
@@ -584,7 +583,7 @@
 						<a href="#" title="Subscribe Now">Subscribe Now</a>
 					</div>
 				</div> -->
-			</div><!-- Container /- -->
+		</div><!-- Container /- -->
 		</div><!-- Newsletter Section /- -->
 
 		<!-- Shop Section -->
@@ -596,7 +595,7 @@
 					<h3>Notre organisation sur le terrain</h3>
 					<img src="images/header-seprator.png" alt="seprator">
 					<p>
-						Le client est au coeur de l'organisation mise en oeuvre sur le terrain. En s'appuyant sur un accompagnement constant et des contrôles à tous les niveaux. Satisfaire le client et délivrer la meilleure prestation possible reste l'objectif premier  des équipes de BGA.
+						Le client est au coeur de l'organisation mise en oeuvre sur le terrain. En s'appuyant sur un accompagnement constant et des contrôles à tous les niveaux. Satisfaire le client et délivrer la meilleure prestation possible reste l'objectif premier des équipes de BGA.
 					</p>
 				</div><!-- Section Header /- -->
 				<!-- <ul class="products">

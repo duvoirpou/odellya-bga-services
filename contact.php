@@ -13,10 +13,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<title>Maxclean - Contact-01</title>
+	<title>BGA-SERVICES</title>
 
 	<!-- Standard Favicon -->
-	<link rel="icon" type="image/x-icon" href="images//favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="images/bga-services-logo.png" />
 	
 	<!-- For iPhone 4 Retina display: -->
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images//apple-touch-icon-114x114-precomposed.png">

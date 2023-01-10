@@ -1898,7 +1898,7 @@
 
 /* - Call Out */
 .call-out {
-	background-image: url("../images/callout-bg.jpg");
+	background-image: url("../images/newsletter-bg.png"); /* callout-bg.jpg */
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;

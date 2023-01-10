@@ -45,7 +45,7 @@
 		<!-- Container -->
 		<div class="container">
 			<div class="coyright-content">
-				<p>&copy; <?= date('Y'); ?> Copyrights All Rights Reserved</p>
+				<p>Copyrights &copy; <?= date('Y'); ?> BGA-SERVICES. Tous droits réservés | Designed with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://www.odellya.cg">O'dellya Consulting Congo</a> </p>
 			</div>
 		</div><!-- Container /- -->
 	</div>
