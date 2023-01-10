@@ -45,7 +45,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a title="Logo" href="index.html" class="navbar-brand"><img src="images/bga-services-logo.png" style="width: 50px;" alt="logo"></a>
+						<a title="Logo" href="index.html" class="navbar-brand"><img src="images/bga-services-logo.png" style="width: 80px;" alt="logo"></a>
 					</div>
 					<div class="navbar-collapse collapse navbar-right" id="navbar">
 						<ul class="nav navbar-nav">

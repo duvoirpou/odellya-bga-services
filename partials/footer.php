@@ -8,7 +8,7 @@
 			</aside><!-- Widget Brand /- -->
 			<!-- Widget About -->
 			<aside class="col-md-3 col-sm-6 col-xs-6 ftr-widget widget_about">
-				<h3 class="widget-title">Nous sommes</h3>
+				<h3 class="widget-title">A propos de nous</h3> 
 				<p>
 					Une équipe professionnelle d'entretien de nettoyage et de désinfectation à l'écoute de vos attentes et de vos objectifs.
 				</p>
@@ -22,7 +22,7 @@
 				<h3 class="widget-title">Liens rapides</h3>
 				<ul>
 					<li><a href="index.php" title="Accueil">Accueil</a></li>
-					<li><a href="contact.php" title="Contact Us">Contact</a></li>
+					<li><a href="contact.php" title="Contact">Contact</a></li>
 				</ul>
 			</aside><!-- Widget Links /- -->
 			<!-- Widget Email -->
