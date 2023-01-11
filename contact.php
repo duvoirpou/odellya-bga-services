@@ -105,7 +105,7 @@
 							<i class="fa fa-phone"></i>
 							<h5>Appelez-nous</h5>
 							<p><b><a href="tel:+242066149507" title="Phone" class="phone">+242 06 614 95 07</a></b></p>
-							<p><b><a href="tel:+242056732607" title="Phone" class="phone">+242 05 673 26 07</a></b></p>
+							<p><b><a href="tel:+242056732607" title="Phone" class="phone">+242 05 673 26 37</a></b></p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6">
@@ -121,7 +121,7 @@
 						<div class="contact-content">
 							<i class="fa fa-home"></i>
 							<h5>Adresse</h5>
-							<p><b><a >01 Rue Apila, rond-point Péage Kintélé</a></b></p>
+							<p><b><a >04 Ter rue Banziris, Poto-Poto Brazzaville</a></b></p>
 							<br>
 							<!-- <p>Victoria, Australia.</p> -->
 						</div>

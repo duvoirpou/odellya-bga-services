@@ -690,6 +690,11 @@ a {
 	#largeur{
 		padding-left: 200px;
 	}
+
+	.nos-services {
+		height: 587px;
+		margin-top: 120px;
+	}
 }
 
 /* - min-width: 992 */

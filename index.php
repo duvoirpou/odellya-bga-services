@@ -74,11 +74,11 @@
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-0" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
 							</div>
 							<!-- LAYER NR. 2 -->
-							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons pour
+							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons à
 							</div>
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','260','215','145']" data-fontsize="['50','44','44','18']" data-fontweight="['700','700','700','700']" data-lineheight="['60','24','24','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:1000;e:Power4.easeOut;" data-transform_out="opacity:0;s:3000;e:Power4.easeIn;s:3000;e:Power4.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#fff; letter-spacing: 10px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">
-								<span style="color: #189586;">Nettoyer</span>Votre Place
+								<span style="color: #189586;">Nettoyer</span>Votre Espace
 							</div>
 							<!-- LAYER NR. 4 -->
 							<!-- <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['360','290','250','165']" data-fontsize="['18','18','18','14']" data-fontweight="['400','400','400','400']" data-lineheight="['40','40','40','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#e2e2e2; letter-spacing: 1px; font-family: 'Raleway', sans-serif;">
@@ -100,11 +100,11 @@
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-6" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
 							</div>
 							<!-- LAYER NR. 2 -->
-							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons pour
+							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons à
 							</div>
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-8" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','260','215','145']" data-fontsize="['50','44','44','18']" data-fontweight="['700','700','700','700']" data-lineheight="['60','24','24','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:1000;e:Power4.easeOut;" data-transform_out="opacity:0;s:3000;e:Power4.easeIn;s:3000;e:Power4.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#fff; letter-spacing: 10px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">
-								<span style="color: #189586;">Nettoyer</span>Votre Place
+								<span style="color: #189586;">Nettoyer</span>Votre Espace
 							</div>
 							<!-- LAYER NR. 4 -->
 							<!-- <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['360','290','250','165']" data-fontsize="['18','18','18','14']" data-fontweight="['400','400','400','400']" data-lineheight="['40','40','40','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#e2e2e2; letter-spacing: 1px; font-family: 'Raleway', sans-serif;">
@@ -126,11 +126,11 @@
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-12" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(48, 48, 48, 0.8);">
 							</div>
 							<!-- LAYER NR. 2 -->
-							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-13" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons pour
+							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-13" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-100','-100','-100']" data-fontsize="['20','20','20','16']" data-lineheight="['60','60','60','60']" data-fontweight="['400','400','400','400']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap; letter-spacing: 1px; color:#fff; font-family: 'Poppins', sans-serif; text-transform: uppercase;">nous vous aidons à
 							</div>
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-14" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','260','215','145']" data-fontsize="['50','44','44','18']" data-fontweight="['700','700','700','700']" data-lineheight="['60','24','24','24']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:1000;e:Power4.easeOut;" data-transform_out="opacity:0;s:3000;e:Power4.easeIn;s:3000;e:Power4.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#fff; letter-spacing: 10px; font-family: 'Poppins', sans-serif; text-transform: uppercase;">
-								<span style="color: #189586;">Nettoyer</span>Votre Place
+								<span style="color: #189586;">Nettoyer</span>Votre Espace
 							</div>
 							<!-- LAYER NR. 4 -->
 							<!-- <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-15" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['360','290','250','165']" data-fontsize="['18','18','18','14']" data-fontweight="['400','400','400','400']" data-lineheight="['40','40','40','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; color:#e2e2e2; letter-spacing: 1px; font-family: 'Raleway', sans-serif;">
@@ -189,8 +189,8 @@
 							<i class="fa fa-check-square-o" aria-hidden="true"></i> BGA offre des solutions rapides, efficaces, adaptées, ce à des tarifs défiants toute concurrence.
 						</h4>
 					</div>
-					<div class="col-md-6 col-sm-6 col-xs-6" id="largeur">
-						<img src="images/why-choose-us.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
+					<div class="col-md-6 col-sm-6 col-xs-6" id="largeur" style="padding-top: 80px;">
+						<img src="images/bga-1.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
 					</div>
 				</div>
 				<!-- <div class="col-md-4 col-sm-6 col-xs-6">
@@ -321,13 +321,13 @@
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<article class="type-post">
 						<!-- <div class="entry-cover">
-							<a title="Blog" href="blog-post.html">
+							<a title="Blog" >
 								<img alt="blog" src="images/blog-4.jpg" />
 							</a>
 						</div> -->
 						<div class="blog-content">
 							<div class="entry-header">
-								<h3 class="entry-title"><a title="To Select Your Place to be Clean Everydey" href="#">Des solutions sur mesure</a></h3>
+								<h3 class="entry-title"><a title="Des solutions sur mesure">Des solutions sur mesure</a></h3>
 								<div class="entry-meta">
 									<!-- <div class="post-like"><a href="#" title="40 Likes"><i class="fa fa-heart-o"></i>40 Likes</a></div>
 									<div class="post-comment"><a href="#" title="20 Comments"><i class="fa fa-commenting-o"></i>20 Comments</a></div>
@@ -354,7 +354,7 @@
 						</div> -->
 						<div class="blog-content">
 							<div class="entry-header">
-								<h3 class="entry-title"><a title="Commercial And Residentiol Cleaning Services" href="blog-post.html">Un enjeu constant </a></h3>
+								<h3 class="entry-title"><a title="Un enjeu constant" >Un enjeu constant </a></h3>
 								<div class="entry-meta">
 									<!-- <div class="post-like"><a href="#" title="64 Likes"><i class="fa fa-heart-o"></i>64 Likes</a></div>
 									<div class="post-comment"><a href="#" title="27 Comments"><i class="fa fa-commenting-o"></i>27 Comments</a></div>
@@ -370,7 +370,7 @@
 							<!-- <div class="entry-content">
 								<p>One two three four five six seven eight Sclemeel of schlemazel hasenfeffer incorporated. Here he comes Here comes Speed Racer. He's a demon on wheels.</p>
 							</div>
-							<a href="blog-post.html" title="Read More" class="read-more">Read More</a> -->
+							<a  title="Read More" class="read-more">Read More</a> -->
 						</div>
 					</article>
 				</div>
@@ -381,7 +381,7 @@
 						</div> -->
 						<div class="blog-content">
 							<div class="entry-header">
-								<h3 class="entry-title"><a title="Commercial And Residentiol Cleaning Services" href="blog-post.html">Des hommes toujours à vos cotés </a></h3>
+								<h3 class="entry-title"><a title="Des hommes toujours à vos cotés" >Des hommes toujours à vos cotés </a></h3>
 								<div class="entry-meta">
 									<!-- <div class="post-like"><a href="#" title="64 Likes"><i class="fa fa-heart-o"></i>64 Likes</a></div>
 									<div class="post-comment"><a href="#" title="27 Comments"><i class="fa fa-commenting-o"></i>27 Comments</a></div>
@@ -397,7 +397,7 @@
 							<!-- <div class="entry-content">
 								<p>One two three four five six seven eight Sclemeel of schlemazel hasenfeffer incorporated. Here he comes Here comes Speed Racer. He's a demon on wheels.</p>
 							</div>
-							<a href="blog-post.html" title="Read More" class="read-more">Read More</a> -->
+							<a  title="Read More" class="read-more">Read More</a> -->
 						</div>
 					</article>
 				</div>
@@ -408,7 +408,7 @@
 						</div> -->
 						<div class="blog-content">
 							<div class="entry-header">
-								<h3 class="entry-title"><a title="Commercial And Residentiol Cleaning Services" href="blog-post.html">Une exigence de tous les instants </a></h3>
+								<h3 class="entry-title"><a title="Une exigence de tous les instants" >Une exigence de tous les instants </a></h3>
 								<div class="entry-meta">
 									<!-- <div class="post-like"><a href="#" title="64 Likes"><i class="fa fa-heart-o"></i>64 Likes</a></div>
 									<div class="post-comment"><a href="#" title="27 Comments"><i class="fa fa-commenting-o"></i>27 Comments</a></div>
@@ -424,7 +424,7 @@
 							<!-- <div class="entry-content">
 								<p>One two three four five six seven eight Sclemeel of schlemazel hasenfeffer incorporated. Here he comes Here comes Speed Racer. He's a demon on wheels.</p>
 							</div>
-							<a href="blog-post.html" title="Read More" class="read-more">Read More</a> -->
+							<a  title="Read More" class="read-more">Read More</a> -->
 						</div>
 					</article>
 				</div>
@@ -452,7 +452,7 @@
 			<!-- Container -->
 			<div class="container">
 				<div class="col-md-7 col-sm-6 col-xs-7">
-					<img src="images/bga-4.png" class="img-thumbnail img-rounded" alt="about" style="width: 556px; height: 587px;" />
+					<img src="images/bga-15.png" class="img-thumbnail img-rounded nos-services" alt="about" style="width: 556px;" />
 				</div>
 				<div class="col-md-5 col-sm-6 col-xs-5 about-box">
 					<!-- Section Header -->
