@@ -27,7 +27,7 @@
 				</div><!-- Social /- -->
 				<div class="col-md-7 col-sm-6 col-xs-12 info">
 					<p><i class="icon icon-Phone2"></i><a href="tel:+1234567890" title="Phone" class="phone">Appelez-nous: +242 06 614 95 07/05 673 26 07</a></p>
-					<p><i class="icon icon-Imbox"></i><a href="mailto:info@Cleaningcsb.com" title="info@Cleaningcsb.com">Email: bgaservices01@gmail.com</a></p>
+					<p><i class="icon icon-Imbox"></i><a href="mailto:contact@bgaservices.cg" title="contact@bgaservices.cg">Email: contact@bgaservices.cg</a></p>
 				</div>
 			</div><!-- Container /- -->
 		</div><!-- Top Header /- -->
