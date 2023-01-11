@@ -190,7 +190,7 @@
 						</h4>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-6" id="largeur" style="padding-top: 80px;">
-						<img src="images/bga-1.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
+						<img src="images/bga-16.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
 					</div>
 				</div>
 				<!-- <div class="col-md-4 col-sm-6 col-xs-6">
