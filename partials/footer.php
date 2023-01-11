@@ -14,7 +14,7 @@
 				</p>
 				<ul>
 					<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="#" title="Twitter"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
 				</ul>
 			</aside><!-- Widget Brand /- -->
 			<!-- Widget Links -->
@@ -45,7 +45,7 @@
 		<!-- Container -->
 		<div class="container">
 			<div class="coyright-content">
-				<p>Copyrights &copy; <?= date('Y'); ?> BGA-SERVICES. Tous droits réservés | Designed with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://www.odellya.cg">O'dellya Consulting Congo</a> </p>
+				<p>Copyright &copy; <?= date('Y'); ?> BGA-SERVICES. Tous droits réservés | Designed by <a href="https://www.odellya.cg">O'dellya Consulting Congo</a> </p>
 			</div>
 		</div><!-- Container /- -->
 	</div>

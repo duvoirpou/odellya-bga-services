@@ -68,7 +68,7 @@
 				<div id="home-slider1" class="rev_slider" data-version="5.0">
 					<ul>
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/bga-13.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-0" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
@@ -94,7 +94,7 @@
 						</li>
 
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/bga-8.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-6" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(16, 38, 50, 0.8);">
@@ -120,7 +120,7 @@
 						</li>
 
 						<li data-transition="zoomout" data-slotamount="default" data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-							<img src="images/MicrosoftTeams-image-3.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+							<img src="images/bga-10.png" style="width: 1919px; height: 851px;" alt="slider" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 							<!-- LAYERS -->
 							<!-- LAYER NR. 1 -->
 							<div class="tp-caption tp-shape tp-shapewrapper" id="slide-layer-12" data-x="['center','center','center','center']" data-y="['middle','middle','middle','middle']" data-basealign="slide" data-height="full" data-hoffset="['0','0','0','0']" data-responsive="off" data-responsive_offset="off" data-start="0" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-voffset="['0','0','0','0']" data-whitespace="nowrap" data-width="full" style="z-index: 5;background-color:rgba(48, 48, 48, 0.8);">
@@ -163,34 +163,34 @@
 				</div><!-- Section Header /- -->
 				<div class="row">
 					<div class="col-md-6 col-sm-6 col-xs-6">
+						<h2 style="text-align: justify;">
+							Le groupe BGA services est un acteur majeur spécialisé dans divers secteurs tels que :
+						</h2>
+						<br>
 						<h4 style="text-align: justify;">
-							Le groupe BGA services est un acteur majeur spécialisé dans diverses secteurs tels que :
+							<i class="fa fa-check-square-o" aria-hidden="true"></i> L'entretien quotidien des locaux administratifs et commerciaux.
+						</h4> <br>
+
+						<h4 style="text-align: justify;">
+							<i class="fa fa-check-square-o" aria-hidden="true"></i> Le nettoyage des carreaux et marbres, le ponçage et la cristallisation du marbre, grand lavage d'immeuble et résidence, grand nettoyage de fin de chantiers.
+						</h4> <br>
+
+						<h4 style="text-align: justify;">
+							<i class="fa fa-check-square-o" aria-hidden="true"></i> Nettoyage vitrerie accessible et inaccessible (nacelle), nettoyage canapé en cuir ou tissus, tapis moquettes et matelas, la buanderie.
+						</h4> <br>
+
+						<h4 style="text-align: justify;"><i class="fa fa-check-square-o" aria-hidden="true"></i> Nettoyage et maintenance des climatiseurs.</h4> <br>
+
+						<h4 style="text-align: justify;">
+							<i class="fa fa-check-square-o" aria-hidden="true"></i> Entretien professionnel des espaces verts, désinsectisation, dératisation, décapage, avec des materiels et produits adaptés, mettant au coeur de son objectif la réussite et le bien être du client.
+						</h4> <br>
+
+						<h4 style="text-align: justify;">
+							<i class="fa fa-check-square-o" aria-hidden="true"></i> BGA offre des solutions rapides, efficaces, adaptées, ce à des tarifs défiants toute concurrence.
 						</h4>
-
-						<p style="text-align: justify;">
-							L'entretien quotidien des locaux administratifs et commerciaux.
-						</p>
-
-						<p style="text-align: justify;">
-							Le nettoyage des carreaux et marbres, le ponçage et la cristalisation du marbre, grand lavage d'immeuble et résidence, grand nettoyage de fin de chantiers.
-						</p>
-
-						<p style="text-align: justify;">
-							Nettoyage vitrerie accessible et inaccessible (nacelle), nettoyage canapé en cuir ou tissus, tapis moquettes et matelas, la buanderie.
-						</p>
-
-						<p style="text-align: justify;">Nettoyage et maintenance des climatiseurs.</p>
-
-						<p style="text-align: justify;">
-							Entretien professionnel des espaces verts, désinsectisation, dératisation, décapage, avec des materiels et produits adaptés, mettant au coeur de son objectif la réussite et le bien être du client.
-						</p>
-
-						<p style="text-align: justify;">
-							BGA offre des solutions rapides, efficaces, adaptées, ce à des tarifs défiants toute concurrence.
-						</p>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-6" id="largeur">
-						<img src="images/MicrosoftTeams-image-2.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
+						<img src="images/why-choose-us.png" class="img-thumbnail img-rounded" alt="" style="width: 100%;">
 					</div>
 				</div>
 				<!-- <div class="col-md-4 col-sm-6 col-xs-6">
@@ -258,24 +258,24 @@
 					<img src="images/header-seprator.png" alt="seprator" />
 					<!-- <h5>Our Customer Says</h5> -->
 					<p>
-						C'est dans un véritable esprit de transparence d'écoute que BGA vous propose un avi personnalisé et de proximité qui saura vous apporter constance et savoir-faire spécifiques
+						C'est dans un véritable esprit de transparence d'écoute que BGA vous propose un avis personnalisé et de proximité qui saura vous apporter constance et savoir-faire spécifiques
 					</p>
 				</div><!-- Section Header /- -->
 				<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<p>
-							Mise en relation instantanée avec un conseiller dédié.
-						</p>
+						<h4>
+							<b><a style="text-decoration: none;">Mise en relation instantanée avec un conseiller dédié.</a></b>
+						</h4>
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<p>
-							Choix ergonomique d'une répartition efficace de nos équipes.
-						</p>
+						<h4>
+						<b><a style="text-decoration: none;">Choix ergonomique d'une répartition efficace de nos équipes.</a></b>
+						</h4>
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<p>
-							Conception et mise en oeuvre de solutions innovantes et pertinentes.
-						</p>
+						<h4>
+						<b><a style="text-decoration: none;">Conception et mise en oeuvre de solutions innovantes et pertinentes.</a></b>
+						</h4>
 					</div>
 				</div>
 				<div class="section-header">
@@ -430,7 +430,7 @@
 				</div>
 				<div class="row container mt-4">
 					<div class="col">
-						<h4 class="text-uppercase text-center">Performance - écoute - Dynamisme - Compétence - Ponctuation</h4>
+						<h4 class="text-uppercase text-center"><b><a style="text-decoration: none;">Performance - écoute - Dynamisme - Compétence - Ponctuation</a></b></h4>
 					</div>
 				</div>
 			</div><!-- Container /- -->
@@ -452,7 +452,7 @@
 			<!-- Container -->
 			<div class="container">
 				<div class="col-md-7 col-sm-6 col-xs-7">
-					<img src="images/MicrosoftTeams-image-1.png"  class="img-thumbnail img-rounded" alt="about" style="width: 556px; height: 587px;" />
+					<img src="images/bga-4.png" class="img-thumbnail img-rounded" alt="about" style="width: 556px; height: 587px;" />
 				</div>
 				<div class="col-md-5 col-sm-6 col-xs-5 about-box">
 					<!-- Section Header -->
@@ -506,11 +506,11 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/Creer-du-lien.png" alt="features"  style="width: 547px; height: 264px" />
+						<img src="images/Creer-du-lien.png" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-Delete"></span> -->
-								<h3>Administration & collectivitées</h3>
+								<h3>Administration & collectivités</h3>
 								<!-- <p>One two three four five six seven eight Sclemeel schlemazel hasenfeffer incorporated.</p> -->
 							</div>
 						</div>
@@ -518,7 +518,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="features-box">
-						<img src="images/fulton-6321.jpg" alt="features"  style="width: 547px; height: 264px" />
+						<img src="images/IMG_201.jpg" alt="features" style="width: 547px; height: 264px" />
 						<div class="features-content-box">
 							<div class="features-content">
 								<!-- <span class="icon icon-ForkandKnife"></span> -->

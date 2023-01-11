@@ -22,7 +22,7 @@
 					<h5>Suivez-nous :</h5>
 					<ul>
 						<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#" title="Twitter"><i class="fa fa-instagram"></i></a></li>
+						<li><a href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
 					</ul>
 				</div><!-- Social /- -->
 				<div class="col-md-7 col-sm-6 col-xs-12 info">

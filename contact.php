@@ -104,15 +104,15 @@
 						<div class="contact-content">
 							<i class="fa fa-phone"></i>
 							<h5>Appelez-nous</h5>
-							<p><a href="tel:+242066149507" title="Phone" class="phone">+242 06 614 95 07</a></p>
-							<p><a href="tel:+242056732607" title="Phone" class="phone">+242 05 673 26 07</a></p>
+							<p><b><a href="tel:+242066149507" title="Phone" class="phone">+242 06 614 95 07</a></b></p>
+							<p><b><a href="tel:+242056732607" title="Phone" class="phone">+242 05 673 26 07</a></b></p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6">
 						<div class="contact-content">
 							<i class="fa fa-paper-plane-o"></i>
 							<h5>Ecrivez-nous</h5>
-							<p><a href="mailto:bgaservices01@gmail.com" title="bgaservices01@gmail.com">bgaservices01@gmail.com</a></p>
+							<p><b><a href="mailto:bgaservices01@gmail.com" title="bgaservices01@gmail.com">bgaservices01@gmail.com</a></b></p>
 							<br>
 							<!-- <p><a href="mailto:info@MaxCleaningcsb.com" title="info@MaxCleaningcsb.com">info@MaxCleaningcsb.com</a></p> -->
 						</div>
@@ -120,8 +120,8 @@
 					<div class="col-md-4 col-sm-6 col-xs-6">
 						<div class="contact-content">
 							<i class="fa fa-home"></i>
-							<h5>Address</h5>
-							<p>01 Rue Apila, rond point Péage Kintélé</p>
+							<h5>Adresse</h5>
+							<p><b><a >01 Rue Apila, rond-point Péage Kintélé</a></b></p>
 							<br>
 							<!-- <p>Victoria, Australia.</p> -->
 						</div>
@@ -131,7 +131,8 @@
 
 			<!-- Map Section -->
 			<div class="map container-fluid no-padding">
-				<div class="map-canvas" id="map-canvas-contact" data-lat="-37.471308" data-lng="144.785153" data-string="Maxcleaning Inc, 06 Highley St,Victoria, Australia." data-zoom="12"></div>
+				<!-- <div class="map-canvas" id="map-canvas-contact" data-lat="-37.471308" data-lng="144.785153" data-string="Maxcleaning Inc, 06 Highley St,Victoria, Australia." data-zoom="12"></div> -->
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254666.27001307392!2d15.16922179967317!3d-4.188828925467563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6bc977861901fb%3A0xb8f3487c5a3492e2!2zTWFyY2jDqSBQw6lhZ2UgZGUgS2ludGVsw6k!5e0!3m2!1sfr!2scg!4v1673429660457!5m2!1sfr!2scg" style="border:0; width: 100%; height: 450px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div><!--  Map Section /- -->
 		</div><!-- Contact Us 1 -->
 	</main>
